@@ -1,0 +1,4 @@
+#Tue Mar 20 09:33:12 IST 2018
+base.0=C\:\\Users\\lenovo pc\\Desktop\\watson-calorie-counter\\mobile\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+path.0=classes.dex
+renamed.0=classes.dex

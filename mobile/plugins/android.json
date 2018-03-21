@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-cache-clear": {
+      "PACKAGE_NAME": "com.watson.caloriecounter"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.watson.caloriecounter"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.watson.caloriecounter"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.watson.caloriecounter"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.watson.caloriecounter"
+    }
+  }
+}
